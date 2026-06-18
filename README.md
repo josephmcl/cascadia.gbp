@@ -1,6 +1,10 @@
-# cascadia fault for the gordon bell prize
+# 3D Cascadia Fault for the gordon bell prize
 
-- Joseph: ANL DD extension (Aurora/Polaris)
-- Zac/Brittany: BP-9 QD finalizing [repo](https://github.com/zacc123/Thrase.jl)
-- Mesh/volume
+- ANL DD extension for Aurora/Polaris (Joseph)
+- BP-9 QD finalizing [repo](https://github.com/zacc123/Thrase.jl) (Zac)
+- Solver/workflow (Joseph)
+- Mesh/volume (Mari?)
+- Tractability (Joseph/Zacc/Mathew)
+- Vis (?)
+- Argonne support (Longfei)
   
