@@ -1,4 +1,4 @@
-# 3D Cascadia Fault for the gordon bell prize
+# 3D Cascadia Fault for Gordon Bell
 
 - ANL DD extension for Aurora/Polaris (Joseph)
 - BP-9 QD finalizing [repo](https://github.com/zacc123/Thrase.jl) (Zac)
