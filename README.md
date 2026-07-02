@@ -7,6 +7,9 @@
   - Julia/compiler optimizations (Willow?)
 - Mesh/volume (Mari?)
 - Tractability (Joseph/Zacc/Mathew)
+    - Multigrid [link](https://github.com/zacc123/Thrase.jl/tree/zac-dev/src/3D/MG) (Zac)
+    - Chebyshev (Mathew)
+    - Deflation; Hybridization (Joseph)
 - Vis (?)
 - Argonne support (Longfei)
   
